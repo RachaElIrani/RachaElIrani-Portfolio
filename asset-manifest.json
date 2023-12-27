@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/RachaElIrani-Protfolio/static/css/main.e6738273.css",
-    "main.js": "/RachaElIrani-Protfolio/static/js/main.925ae04b.js",
-    "static/js/787.b1ea6327.chunk.js": "/RachaElIrani-Protfolio/static/js/787.b1ea6327.chunk.js",
-    "static/media/mywebsite.png": "/RachaElIrani-Protfolio/static/media/mywebsite.23519b30a567dd8dee82.png",
-    "static/media/zaky.png": "/RachaElIrani-Protfolio/static/media/zaky.24e3539b36001bf67881.png",
-    "static/media/bex.png": "/RachaElIrani-Protfolio/static/media/bex.bab11fbc159f8917b1c8.png",
-    "static/media/design1.png": "/RachaElIrani-Protfolio/static/media/design1.16f10c2c9b6416c9b49e.png",
-    "static/media/mobile.png": "/RachaElIrani-Protfolio/static/media/mobile.14584d923eecda95527a.png",
-    "static/media/web.png": "/RachaElIrani-Protfolio/static/media/web.5a693ae0b052f833bded.png",
-    "static/media/design2.png": "/RachaElIrani-Protfolio/static/media/design2.d5a686824e168b45e02b.png",
-    "static/media/contactUs.png": "/RachaElIrani-Protfolio/static/media/contactUs.a986561adaabd89c313d.png",
-    "static/media/homepageimage.svg": "/RachaElIrani-Protfolio/static/media/homepageimage.49b4f1841f0db5556ec2f20aad5e74e3.svg",
-    "static/media/johnny.jpeg": "/RachaElIrani-Protfolio/static/media/johnny.af0b59e23e2942784fae.jpeg",
-    "static/media/phone.svg": "/RachaElIrani-Protfolio/static/media/phone.6dc6f03dfa37563223888b76ad952004.svg",
-    "static/media/linkedin-02.svg": "/RachaElIrani-Protfolio/static/media/linkedin-02.0daebcfa62ce09fbd051935823b94bb6.svg",
-    "static/media/Menu.svg": "/RachaElIrani-Protfolio/static/media/Menu.3eac0a27bd5d10e665c7ca34b257c933.svg",
-    "static/media/blueArrow.svg": "/RachaElIrani-Protfolio/static/media/blueArrow.aad80bce7cf5b38ad27f7e817243158a.svg",
-    "index.html": "/RachaElIrani-Protfolio/index.html",
-    "static/media/arrow.svg": "/RachaElIrani-Protfolio/static/media/arrow.7df81438646256a69bd5652834ccf434.svg",
-    "main.e6738273.css.map": "/RachaElIrani-Protfolio/static/css/main.e6738273.css.map",
-    "main.925ae04b.js.map": "/RachaElIrani-Protfolio/static/js/main.925ae04b.js.map",
-    "787.b1ea6327.chunk.js.map": "/RachaElIrani-Protfolio/static/js/787.b1ea6327.chunk.js.map"
+    "main.css": "/RachaElIrani-Portfolio/static/css/main.e6738273.css",
+    "main.js": "/RachaElIrani-Portfolio/static/js/main.694d8084.js",
+    "static/js/787.b1ea6327.chunk.js": "/RachaElIrani-Portfolio/static/js/787.b1ea6327.chunk.js",
+    "static/media/mywebsite.png": "/RachaElIrani-Portfolio/static/media/mywebsite.23519b30a567dd8dee82.png",
+    "static/media/zaky.png": "/RachaElIrani-Portfolio/static/media/zaky.24e3539b36001bf67881.png",
+    "static/media/bex.png": "/RachaElIrani-Portfolio/static/media/bex.bab11fbc159f8917b1c8.png",
+    "static/media/design1.png": "/RachaElIrani-Portfolio/static/media/design1.16f10c2c9b6416c9b49e.png",
+    "static/media/mobile.png": "/RachaElIrani-Portfolio/static/media/mobile.14584d923eecda95527a.png",
+    "static/media/web.png": "/RachaElIrani-Portfolio/static/media/web.5a693ae0b052f833bded.png",
+    "static/media/design2.png": "/RachaElIrani-Portfolio/static/media/design2.d5a686824e168b45e02b.png",
+    "static/media/contactUs.png": "/RachaElIrani-Portfolio/static/media/contactUs.a986561adaabd89c313d.png",
+    "static/media/homepageimage.svg": "/RachaElIrani-Portfolio/static/media/homepageimage.49b4f1841f0db5556ec2f20aad5e74e3.svg",
+    "static/media/johnny.jpeg": "/RachaElIrani-Portfolio/static/media/johnny.af0b59e23e2942784fae.jpeg",
+    "static/media/phone.svg": "/RachaElIrani-Portfolio/static/media/phone.6dc6f03dfa37563223888b76ad952004.svg",
+    "static/media/linkedin-02.svg": "/RachaElIrani-Portfolio/static/media/linkedin-02.0daebcfa62ce09fbd051935823b94bb6.svg",
+    "static/media/Menu.svg": "/RachaElIrani-Portfolio/static/media/Menu.3eac0a27bd5d10e665c7ca34b257c933.svg",
+    "static/media/blueArrow.svg": "/RachaElIrani-Portfolio/static/media/blueArrow.aad80bce7cf5b38ad27f7e817243158a.svg",
+    "index.html": "/RachaElIrani-Portfolio/index.html",
+    "static/media/arrow.svg": "/RachaElIrani-Portfolio/static/media/arrow.7df81438646256a69bd5652834ccf434.svg",
+    "main.e6738273.css.map": "/RachaElIrani-Portfolio/static/css/main.e6738273.css.map",
+    "main.694d8084.js.map": "/RachaElIrani-Portfolio/static/js/main.694d8084.js.map",
+    "787.b1ea6327.chunk.js.map": "/RachaElIrani-Portfolio/static/js/787.b1ea6327.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6738273.css",
-    "static/js/main.925ae04b.js"
+    "static/js/main.694d8084.js"
   ]
 }
