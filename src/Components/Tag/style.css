@@ -1,0 +1,105 @@
+.default {
+  display: flex;
+  padding: 8px 24px;
+  justify-content: center;
+  align-items: center;
+  color: #3e68f6;
+  background-color: #e0e7fe;
+  text-align: center;
+  font-family: Test Founders Grotesk;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 8px;
+  width: 100%;
+}
+
+.active {
+  padding: 8px 24px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  color: #ffffff;
+  background-color: #3e68f6;
+  text-align: center;
+  font-family: Test Founders Grotesk;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 8px;
+  white-space: nowrap;
+}
+.dev {
+  display: flex;
+  padding: 8px 24px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  color: #f39201;
+  background-color: #fdefd9;
+  text-align: center;
+  font-family: Test Founders Grotesk;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 8px;
+  border: none;
+  width: 100%;
+}
+/*for small screen */
+@media only screen and (max-width: 767px) {
+  .default {
+    display: flex;
+    padding: 8px 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    color: #3e68f6;
+    background-color: #e0e7fe;
+    text-align: center;
+    font-family: Test Founders Grotesk;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    border-radius: 8px;
+    white-space: nowrap;
+    width: 100%;
+  }
+  .dev {
+    display: flex;
+    padding: 8px 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    color: #f39201;
+    background-color: #fdefd9;
+    text-align: center;
+    font-family: Test Founders Grotesk;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    border-radius: 8px;
+    white-space: nowrap;
+    border: none;
+  }
+}
+
+/*for medium screen */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .default {
+    display: flex;
+    padding: 8px 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    color: #3e68f6;
+    background-color: #e0e7fe;
+    text-align: center;
+    font-family: Test Founders Grotesk;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    border-radius: 8px;
+    white-space: nowrap;
+  }
+}

@@ -1,0 +1,40 @@
+.ProjectCointainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width:100%;
+  background: #fff;
+  border-radius: 48px 48px 16px 16px;
+}
+.ProjectTextCointainer {
+  display: flex;
+  width: auto;
+  padding: 16px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  width:auto;
+}
+.ProjectTitle {
+  color: #010203;
+  font-family: Test Founders Grotesk;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.ProjectDesc {
+  color: var(--Text-Light-Text, #909090);
+  font-family: Test Founders Grotesk;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; 
+  width:auto;
+}
+.ProjectTag{
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    width:90%;
+}

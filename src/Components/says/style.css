@@ -1,0 +1,76 @@
+.saysContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+justify-content: flex-start;
+  width: 100%;
+}
+.saysrightContainer{
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    justify-content: flex-end;
+    width: 100%;
+}
+.syasPerson {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+}
+.syasPersonDesc {
+  color: var(--Primary-deafult, #3e68f6);
+  text-align: center;
+  font-family: Test Founders Grotesk;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.syasPersonName {
+  color: #404958;
+  text-align: center;
+  font-family: Test Founders Grotesk;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.syasText {
+  display: flex;
+  width: 60%;
+  padding: 24px 16px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  border-radius: 0px 32px 32px 32px;
+  background: #fff;
+  color: var(--Text-Light-Text, #909090);
+  font-family: Test Founders Grotesk;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.syasTextright {
+  display: flex;
+  width: 60%;
+  padding: 24px 16px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  border-radius: 32px 0px 32px 32px;
+  background: #fff;
+  color: var(--Text-Light-Text, #909090);
+  font-family: Test Founders Grotesk;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.saysimage {
+  width: 56px;
+  height: 56px;
+  border-radius: 72px;
+}
